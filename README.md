@@ -1,14 +1,3 @@
-# Reproduce Pointnet2
-
-Created: July 3, 2021 4:56 PM
-Engineers: Xiaobo Liu, Runze Gan
-Priority: P1 🔥
-Sprint: Sprint 21
-Status: In Progress
-Type: Epic ⛰️
-
-Create a new item in your database and choose `Bug` from the list of template options to generate the format below. Learn more about database templates [here](https://www.notion.so/Database-templates-454ed5ab5bd24226b58d176697bd7e10).
-
 # Description
 
 The experence of reproducing PointNet++
